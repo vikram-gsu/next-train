@@ -9,8 +9,8 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Vikram Reddy Pareddy",
+  "license": "MIT",
   "dependencies": {
     "@types/react-leaflet": "^2.4.0",
     "@types/styled-components": "^4.1.19",
